@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Pamsath.github.io/sitemap.xml
+Sitemap: https://gamage-research.org/sitemap.xml
