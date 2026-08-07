@@ -1,9 +1,73 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+#"AJP":
+#  url: https://aapt.scitation.org/journal/ajp
+#  color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+# "PhysRev":
+#  url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+# "Vision":
+#  color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#0B1F3A"
+"Sci Rep":
+  url: https://www.nature.com/srep/
+  color: "#0B1F3A"
+"Adv Mater Interfaces":
+  url: https://advanced.onlinelibrary.wiley.com/journal/21967350
+  color: "#0B1F3A"
+"ACS Nano":
+  url: https://pubs.acs.org/journal/ancac3
+  color: "#0B1F3A"
+"Science":
+  url: https://www.science.org/journal/science
+  color: "#0B1F3A"
+"Adv Intell Syst":
+  url: https://advanced.onlinelibrary.wiley.com/journal/26404567
+  color: "#0B1F3A"
+"Adv Mater":
+  url: https://advanced.onlinelibrary.wiley.com/journal/15214095
+  color: "#0B1F3A"
+"Cellulose":
+  url: https://link.springer.com/journal/10570
+  color: "#0B1F3A"
+"J Mater Chem C":
+  url: https://pubs.rsc.org/en/journals/journalissues/tc
+  color: "#0B1F3A"
+"Nano Lett":
+  url: https://pubs.acs.org/journal/nalefd
+  color: "#0B1F3A"
+"ACS Photonics":
+  url: https://pubs.acs.org/journal/apchd5
+  color: "#0B1F3A"
+"PNAS":
+  url: https://www.pnas.org/
+  color: "#0B1F3A"
+"PLOS ONE":
+  url: https://journals.plos.org/plosone/
+  color: "#0B1F3A"
+"Nanotechnology":
+  url: https://iopscience.iop.org/journal/0957-4484
+  color: "#0B1F3A"
+"Opt Express":
+  url: https://opg.optica.org/oe/home.cfm
+  color: "#0B1F3A"
+"Light Sci Appl":
+  url: https://www.nature.com/lsa/
+  color: "#0B1F3A"
+"ACS AMI":
+  url: https://pubs.acs.org/journal/aamick
+  color: "#0B1F3A"
+"PSS C":
+  url: https://onlinelibrary.wiley.com/journal/16101642
+  color: "#0B1F3A"
+"Appl Surf Sci":
+  url: https://www.sciencedirect.com/journal/applied-surface-science
+  color: "#0B1F3A"
+"JVST A":
+  url: https://pubs.aip.org/avs/jva
+  color: "#0B1F3A"
+"MRS Proc":
+  url: https://link.springer.com/journal/43580
+  color: "#0B1F3A"
