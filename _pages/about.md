@@ -23,15 +23,9 @@ latest_posts:
   <strong>Discover. Understand. Adapt.</strong>
 </p>
 
-#### Our Vision
+#### Research Overview
 
-To uncover the fundamental principles that govern adaptive behavior in functional materials and use this understanding to create new materials and devices with dynamically tunable properties.
-
-#### Our Mission
-
-We develop the science of adaptive functional materials by combining thin-film and molecular synthesis, nanoscale characterization, and device physics.
-
-Using oxide and organic–inorganic hybrid materials as complementary platforms, we investigate how electronic, ionic, structural, optical, and interfacial processes interact to produce emergent functionality.
+We develop the science of adaptive functional materials by combining thin-film and molecular synthesis, nanoscale characterization, and device physics. Using oxide and organic–inorganic hybrid materials as complementary platforms, we investigate how electronic, ionic, structural, optical, and interfacial processes interact to produce emergent functionality.
 
 #### Research Pillars
 
