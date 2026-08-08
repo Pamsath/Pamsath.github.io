@@ -46,7 +46,7 @@ nav_order: 2
   <div class="col-md-6 col-lg-4 mb-4">
     <div class="card h-100">
       <img src="{{ '/assets/img/people/atikur-rahman.jpeg' | relative_url }}" class="card-img-top" alt="Atikur Rahman" style="height: 230px; object-fit: cover; object-position: center;">
-      <div class="card-body"><h3 class="card-title">Atikur Rahman</h3><p class="card-text"><em>Ph.D. Student, Nanoengineering</em></p><p class="card-text">Atikur is co-advised with Prof. Masud Chowdhury. He earned his B.S. in Bangladesh.</p></div>
+      <div class="card-body"><h3 class="card-title">Atikur Rahman</h3><p class="card-text"><em>Ph.D. Student, Nanoengineering</em></p><p class="card-text">Atikur is co-advised with Prof. Masud Chowdhury. He earned his B.S. in Engineering from the UNiversity of Chittagong, Bangladesh.</p></div>
     </div>
   </div>
   <div class="col-md-6 col-lg-4 mb-4">
