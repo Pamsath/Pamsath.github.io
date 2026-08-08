@@ -23,7 +23,7 @@ latest_posts:
 <style>
   /* Homepage main title: GAMAGE LAB */
   .post-header .post-title {
-    font-size: 2.0rem !important;
+    font-size: 1.8rem !important;
     font-weight: 700 !important;
     line-height: 1.08 !important;
     margin-bottom: 0.20rem !important;
