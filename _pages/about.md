@@ -42,9 +42,11 @@ latest_posts:
 
 </div>
 
-## Research Overview
+## Welcome
 
-We develop the science of adaptive functional materials by combining thin-film and molecular synthesis, nanoscale characterization, and device physics. Using oxide and organic–inorganic hybrid materials as complementary platforms, we investigate how electronic, ionic, structural, optical, and interfacial processes interact to produce emergent functionality.
+Welcome to the Adaptive Functional Materials Group at UNC Greensboro, led by Dr. Sampath Gamage. We are located at the Joint School of Nanoscience and Nanoengineering (JSNN) in the Gateway Research Park.
+
+Our research bridges thin-film and molecular synthesis, nanoscale characterization, and device physics to pioneer adaptive functional materials. Using oxide and organic–inorganic hybrid systems as complementary platforms, we map the complex interplay of electronic, ionic, structural, optical, and interfacial dynamics that give rise to emergent functionality.
 
 ## Research Pillars
 
