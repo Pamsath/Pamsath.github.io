@@ -1,23 +1,4 @@
 ---
-
-<style>
-  .post-title {
-    font-size: 2.4rem !important;
-  }
-</style>
-
-<div style="margin-top: -0.6rem; margin-bottom: 2.4rem;">
-
-  <div style="
-    font-size: 2.05rem;
-    font-weight: 400;
-    line-height: 1.08;
-    margin: 0 0 0.08rem 0;
-  ">
-    Adaptive Functional Materials
-  </div>
-
-
 layout: about
 title: Home
 permalink: /
@@ -38,28 +19,6 @@ announcements:
 latest_posts:
   enabled: false
 ---
-
-<div style="margin-top: -0.6rem; margin-bottom: 2.4rem;">
-
-  <div style="
-    font-size: 2.05rem;
-    font-weight: 400;
-    line-height: 1.08;
-    margin: 0 0 0.08rem 0;
-  ">
-    Adaptive Functional Materials
-  </div>
-
-  <div style="
-    font-size: 1.05rem;
-    font-weight: 600;
-    line-height: 1.15;
-    margin: 0;
-  ">
-    Discover. Understand. Adapt.
-  </div>
-
-</div>
 
 ## Welcome
 
