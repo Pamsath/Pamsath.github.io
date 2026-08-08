@@ -48,7 +48,7 @@ Welcome to the Adaptive Functional Materials Group at UNC Greensboro, led by Dr.
 
 Our research bridges thin-film and molecular synthesis, nanoscale characterization, and device physics to pioneer adaptive functional materials. Using oxide and organic–inorganic hybrid systems as complementary platforms, we map the complex interplay of electronic, ionic, structural, optical, and interfacial dynamics that give rise to emergent functionality.
 
-## Research Pillars
+### Research Pillars
 
 **Adaptive Oxide Materials:** We investigate how coupled ionic, electronic, structural, and magnetic phenomena give rise to adaptive behavior in complex oxide thin films and devices.
 
