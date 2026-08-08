@@ -33,13 +33,13 @@ Using oxide and organic–inorganic hybrid materials as complementary platforms,
 
 #### Research Pillars
 
-**Adaptive Oxide Materials**
+**Adaptive Oxide Materials:**
 We investigate how coupled ionic, electronic, structural, and magnetic phenomena give rise to adaptive behavior in complex oxide thin films and devices.
 
-**Adaptive Hybrid Materials**
+**Adaptive Hybrid Materials:**
 We develop molecularly engineered organic–inorganic materials using ALD/MLD and complementary synthesis approaches to create new forms of adaptive functionality.
 
-**Mechanistic Nanoscopy**
+**Mechanistic Nanoscopy:**
 We use nanoscale spectroscopy, microscopy, and electrical characterization to understand how adaptive materials evolve across interfaces, length scales, and external stimuli.
 
 ---
