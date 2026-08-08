@@ -22,23 +22,23 @@ latest_posts:
 
 **Discover. Understand. Adapt.**
 
-## Our Vision
+#### Our Vision
 
 To uncover the fundamental principles that govern adaptive behavior in functional materials and use this understanding to create new materials and devices with dynamically tunable properties.
 
-## Our Mission
+#### Our Mission
 
 We develop the science of adaptive functional materials by combining thin-film and molecular synthesis, nanoscale characterization, and device physics.
 
 Using oxide and organic–inorganic hybrid materials as complementary platforms, we investigate how electronic, ionic, structural, optical, and interfacial processes interact to produce emergent functionality.
 
-## Research Pillars
+#### Research Pillars
 
 **Adaptive Oxide Materials**
 
 We investigate how coupled ionic, electronic, structural, and magnetic phenomena give rise to adaptive behavior in complex oxide thin films and devices.
 
-** Adaptive Hybrid Materials**
+**Adaptive Hybrid Materials**
 
 We develop molecularly engineered organic–inorganic materials using ALD/MLD and complementary synthesis approaches to create new forms of adaptive functionality.
 
