@@ -19,7 +19,9 @@ announcements:
 latest_posts:
   enabled: false
 ---
-**Discover. Understand. Adapt.**
+<p style="margin-top: 0.5rem; margin-bottom: 1rem;">
+  <strong>Discover. Understand. Adapt.</strong>
+</p>
 
 #### Our Vision
 
