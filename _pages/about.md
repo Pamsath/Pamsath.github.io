@@ -1,6 +1,6 @@
 ---
 layout: about
-title: GAMAGE LAB
+title: **GAMAGE LAB**
 permalink: /
 subtitle: Adaptive Functional Materials
 nav: false
