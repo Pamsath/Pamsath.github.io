@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Gamage Lab
+title: Home
 permalink: /
 subtitle: Adaptive Functional Materials
 
