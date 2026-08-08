@@ -17,7 +17,7 @@
     Adaptive Functional Materials
   </div>
 
-  ...---
+---
 layout: about
 title: Home
 permalink: /
