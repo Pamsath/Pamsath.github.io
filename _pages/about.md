@@ -1,4 +1,23 @@
 ---
+
+<style>
+  .post-title {
+    font-size: 2.4rem !important;
+  }
+</style>
+
+<div style="margin-top: -0.6rem; margin-bottom: 2.4rem;">
+
+  <div style="
+    font-size: 2.05rem;
+    font-weight: 400;
+    line-height: 1.08;
+    margin: 0 0 0.08rem 0;
+  ">
+    Adaptive Functional Materials
+  </div>
+
+  ...---
 layout: about
 title: Home
 permalink: /
