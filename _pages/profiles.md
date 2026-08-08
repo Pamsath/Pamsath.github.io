@@ -63,7 +63,7 @@ nav_order: 3
   <div class="col-12 col-sm-9 col-md-10">
     <h3>Atikur Rahman</h3>
     <p><em>Ph.D. Student, Nanoengineering</em></p>
-    <p>Atikur is a Ph.D. student in Nanoengineering at North Carolina A&T State University, co-advised by Prof. Masud Chowdhury since Fall 2025. He earned his B.S. in Bangladesh and conducts research on oxide thin films.</p>
+    <p>Atikur is a Ph.D. student in Nanoengineering at North Carolina A&T State University, co-advised by Prof. Masud Chowdhury since Fall 2025. He earned his B.S. in Engineering from Chittagong University in Bangladesh and conducts research on oxide thin films.</p>
   </div>
 </div>
 
