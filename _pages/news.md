@@ -6,3 +6,4 @@ description: news and updates.
 nav: true
 nav_order: 5
 ---
+{% include news.liquid %}
