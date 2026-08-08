@@ -1,6 +1,6 @@
 ---
 layout: about
-title: **GAMAGE LAB**
+title: GAMAGE LAB
 permalink: /
 subtitle: Adaptive Functional Materials
 nav: false
@@ -23,11 +23,13 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+**Discover. Understand. Adapt.**
+
 We study **adaptive functional materials** whose electronic, ionic, structural, optical, and magnetic properties respond to external stimuli.
 
 Our research combines **oxide and organic–inorganic hybrid materials**, thin-film synthesis, nanofabrication, nanoscale characterization, and device physics to uncover the mechanisms governing adaptive behavior.
 
-**Discover. Understand. Adapt.**
+
 
 Department of Nanoscience · <a href="https://jsnn.ncat.uncg.edu/" target="_blank" rel="noopener noreferrer">Joint School of Nanoscience and Nanoengineering (JSNN)</a> · UNC Greensboro
 
