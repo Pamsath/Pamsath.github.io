@@ -1,7 +1,8 @@
 ---
 layout: about
-title:
+title: Home
 permalink: /
+subtitle:
 
 profile:
   align: right
@@ -19,17 +20,7 @@ latest_posts:
   enabled: false
 ---
 
-<div style="margin-top: 0; margin-bottom: 2.3rem;">
-
-  <div style="
-    font-size: 1.55rem;
-    font-weight: 400;
-    line-height: 1.15;
-    margin: 0 0 1.35rem 0;
-    letter-spacing: 0.01em;
-  ">
-    GAMAGE LAB
-  </div>
+<div style="margin-top: -0.6rem; margin-bottom: 2.4rem;">
 
   <div style="
     font-size: 2.05rem;
