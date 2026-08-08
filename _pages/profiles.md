@@ -11,7 +11,7 @@ nav_order: 3
 
 <div class="row align-items-start mb-5">
   <div class="col-12 col-sm-3 col-md-2 mb-3">
-    <img src="{{ '/assets/img/people/sampath-gamage.jpeg' | relative_url }}" alt="Sampath Gamage" class="rounded" style="width: 150px; height: 150px; object-fit: cover; object-position: center;">
+    <img src="{{ '/assets/img/people/sampath-gamage.jpeg' | relative_url }}" alt="Sampath Gamage" class="rounded" style="width: 300px; height: 300px; object-fit: cover; object-position: center;">
   </div>
   <div class="col-12 col-sm-9 col-md-10">
     <h3>Sampath Gamage</h3>
