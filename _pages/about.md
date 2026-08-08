@@ -2,7 +2,6 @@
 layout: about
 title:
 permalink: /
-subtitle:
 
 profile:
   align: right
@@ -11,7 +10,7 @@ profile:
   more_info:
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: false
@@ -20,13 +19,13 @@ latest_posts:
   enabled: false
 ---
 
-<div style="margin-top: 0; margin-bottom: 2rem;">
+<div style="margin-top: 0; margin-bottom: 2.3rem;">
 
   <div style="
     font-size: 1.55rem;
     font-weight: 400;
     line-height: 1.15;
-    margin: 0 0 1.45rem 0;
+    margin: 0 0 1.35rem 0;
     letter-spacing: 0.01em;
   ">
     GAMAGE LAB
@@ -36,15 +35,15 @@ latest_posts:
     font-size: 2.05rem;
     font-weight: 400;
     line-height: 1.08;
-    margin: 0 0 0.12rem 0;
+    margin: 0 0 0.08rem 0;
   ">
     Adaptive Functional Materials
   </div>
 
   <div style="
     font-size: 1.05rem;
-    font-weight: 500;
-    line-height: 1.2;
+    font-weight: 600;
+    line-height: 1.15;
     margin: 0;
   ">
     Discover. Understand. Adapt.
