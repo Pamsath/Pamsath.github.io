@@ -31,6 +31,8 @@ We study **adaptive functional materials** whose electronic, ionic, structural, 
 
 Our research combines **oxide and organic–inorganic hybrid materials**, thin-film synthesis, nanofabrication, nanoscale characterization, and device physics to uncover the mechanisms governing adaptive behavior.
 
+**Discover. Understand. Adapt.**
+
 
 
 
