@@ -1,37 +1,52 @@
 ---
 layout: about
-title: GAMAGE LAB
+title: Gamage Lab
 permalink: /
 subtitle: Adaptive Functional Materials
-nav: false
+
 profile:
   align: right
   image:
   image_circular: false
   more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
-Department of Nanoscience · <a href="https://jsnn.ncat.uncg.edu/" target="_blank" rel="noopener noreferrer">Joint School of Nanoscience and Nanoengineering (JSNN)</a> · UNC Greensboro
-
-
-
-We study **adaptive functional materials** whose electronic, ionic, structural, optical, and magnetic properties respond to external stimuli.
-
-Our research combines advanced materials, thin-film synthesis, nanofabrication, nanoscale characterization, and device physics to uncover the mechanisms governing adaptive behavior.
 
 **Discover. Understand. Adapt.**
+
+## Our Vision
+
+To uncover the fundamental principles that govern adaptive behavior in functional materials and use this understanding to create new materials and devices with dynamically tunable properties.
+
+## Our Mission
+
+We develop the science of adaptive functional materials by combining thin-film and molecular synthesis, nanoscale characterization, and device physics.
+
+Using oxide and organic–inorganic hybrid materials as complementary platforms, we investigate how electronic, ionic, structural, optical, and interfacial processes interact to produce emergent functionality.
+
+## Research Pillars
+
+### Adaptive Oxide Materials
+
+We investigate how coupled ionic, electronic, structural, and magnetic phenomena give rise to adaptive behavior in complex oxide thin films and devices.
+
+### Adaptive Hybrid Materials
+
+We develop molecularly engineered organic–inorganic materials using ALD/MLD and complementary synthesis approaches to create new forms of adaptive functionality.
+
+### Mechanistic Nanoscopy
+
+We use nanoscale spectroscopy, microscopy, and electrical characterization to understand how adaptive materials evolve across interfaces, length scales, and external stimuli.
+
+---
 
 
 
