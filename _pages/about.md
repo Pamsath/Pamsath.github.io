@@ -53,13 +53,13 @@ latest_posts:
 
 </div>
 
-## Welcome
+#### *Welcome*
 
 Welcome to the **Gamage Lab** at UNC Greensboro. We are located at the Joint School of Nanoscience and Nanoengineering (JSNN) in Gateway Research Park.
 
 Our research bridges thin-film and molecular synthesis, nanoscale characterization, and device physics to develop the science of adaptive functional materials. Using oxide and organic–inorganic hybrid systems as complementary platforms, we investigate how electronic, ionic, structural, optical, and interfacial processes interact to produce emergent functionality.
 
-### Research Pillars
+#### *Research Thrusts*
 
 **Adaptive Oxide Materials:** We investigate how coupled ionic, electronic, structural, and magnetic phenomena give rise to adaptive behavior in complex oxide thin films and devices.
 
