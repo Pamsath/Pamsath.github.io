@@ -3,7 +3,7 @@ layout: about
 title: GAMAGE LAB
 permalink: /
 subtitle: Adaptive Functional Materials
-
+nav: false
 profile:
   align: right
   image:
