@@ -44,6 +44,9 @@ nav_order: 2
   </div>
 </div>
 
+
+## Co-advised Graduate Students
+
 <div class="row align-items-start mb-4">
   <div class="col-12 col-sm-4 col-md-3 mb-3">
     <img src="{{ '/assets/img/people/robert-bofah-buoh.png' | relative_url }}" alt="Ghana flag, placeholder for Robert Bofah-Buoh" class="rounded" style="width: 200px; height: 200px; object-fit: contain; background: #f8f9fa;">
