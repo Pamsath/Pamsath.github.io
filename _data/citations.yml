@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-24'
 papers:
   Xn4NYBYAAAAJ:0EnyYjriUFMC:
     citations: 30
@@ -26,7 +26,7 @@ papers:
     title: Strongly correlated perovskite lithium ion shuttles
     year: '2018'
   Xn4NYBYAAAAJ:9ZlFYXVOiuMC:
-    citations: 101
+    citations: 103
     title: Transparent nanocellulose metamaterial enables controlled optical diffusion and radiative cooling
     year: '2020'
   Xn4NYBYAAAAJ:9yKSN-GCB0IC:
@@ -54,7 +54,7 @@ papers:
     title: Effect of V/III molar ratio on the structural and optical properties of InN epilayers grown by HPCVD
     year: '2012'
   Xn4NYBYAAAAJ:KlAtU1dfN6UC:
-    citations: 58
+    citations: 59
     title: Near-Field Surface Waves in Few-Layer MoS2
     year: '2018'
   Xn4NYBYAAAAJ:M3NEmzRMIkIC:
@@ -86,7 +86,7 @@ papers:
     title: Influence of Substrate van der Waals Interactions on the Structural Stability of Violet Phosphorus
     year: '2026'
   Xn4NYBYAAAAJ:RHpTSmoSYBkC:
-    citations: 14
+    citations: 15
     title: Photodegradation and thermal effects in violet phosphorus
     year: '2024'
   Xn4NYBYAAAAJ:RYcK_YlVTxYC:
@@ -122,7 +122,7 @@ papers:
     title: Manipulation of Proton Dynamics in Perovskite Nickelate Devices
     year: '2025'
   Xn4NYBYAAAAJ:YOwf2qJgpHMC:
-    citations: 386
+    citations: 389
     title: Recent progress on stability and passivation of black phosphorus
     year: '2018'
   Xn4NYBYAAAAJ:Zph67rFs4hoC:
@@ -138,7 +138,7 @@ papers:
     title: Probing structural changes in single enveloped virus particles using nano-infrared spectroscopic imaging
     year: '2018'
   Xn4NYBYAAAAJ:blknAaTinKkC:
-    citations: 7
+    citations: 8
     title: Nanoscale characterization of space weathering in lunar samples
     year: '2025'
   Xn4NYBYAAAAJ:d1gkVwhDpl0C:
@@ -148,9 +148,9 @@ papers:
   Xn4NYBYAAAAJ:dhFuZR0502QC:
     citations: 32
     title: Nanoscale spectroscopy of dielectric properties of mica
-    year: '2020'
+    year: '2021'
   Xn4NYBYAAAAJ:hFOr9nPyWt4C:
-    citations: 250
+    citations: 253
     title: Reconfigurable perovskite nickelate electronics for artificial intelligence
     year: '2022'
   Xn4NYBYAAAAJ:hqOjcs7Dif8C:
@@ -174,7 +174,7 @@ papers:
     title: Reliable passivation of black phosphorus by thin hybrid coating
     year: '2017'
   Xn4NYBYAAAAJ:mB3voiENLucC:
-    citations: 119
+    citations: 120
     title: Structurally colored cellulose nanocrystal films as transreflective radiative coolers
     year: '2022'
   Xn4NYBYAAAAJ:mVmsd5A6BfQC:
