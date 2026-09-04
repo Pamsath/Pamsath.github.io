@@ -29,7 +29,8 @@ nav_order: 2
   <div class="col-12 col-sm-8 col-md-9">
     <h3>Nipuna Bandara</h3>
     <p><em>Ph.D. Student, Nanoscience</em></p>
-    <p>Nipuna is from Kandy, Sri Lanka. He earned both a B.Sc. and an M.Phil. in Physics of Materials from the University of Peradeniya. He joined the Gamage Lab in Fall 2026.</p>
+    <p>Nipuna Bandara is a PhD student in Nanoscience who joined JSNN in Fall 2026. He earned his BSc and MPhil degrees in Physics from the University of Peradeniya, Sri Lanka. Before joining JSNN, he was a research assistant in the Advanced Materials Research Laboratory at the University of Peradeniya, where he contributed to CdS/CdTe thin-film solar-cell research. His current work focuses on the fabrication and characterization of thin-film materials for electronic applications. Outside the lab, he enjoys cricket and traveling.
+</p>
   </div>
 </div>
 
@@ -40,7 +41,7 @@ nav_order: 2
   <div class="col-12 col-sm-8 col-md-9">
     <h3>Samuditha Yatiwella</h3>
     <p><em>Ph.D. Student, Nanoscience</em></p>
-    <p>Samuditha is from Colombo, Sri Lanka. He earned a B.Sc. in Chemistry from the University of Colombo and an M.S. in Chemistry from the University of South Carolina.</p>
+    <p>Samuditha Yatiwella joined JSNN in Fall 2026 as a PhD student in Nanoscience. He earned a BSc in Chemistry from the University of Colombo, Sri Lanka, and an MS in Chemistry from the University of South Carolina (USC). Before joining JSNN, he served as an instructor in USC’s Department of Chemistry and Biochemistry. His research investigates frontier materials for thin-film fabrication. He enjoys traveling and sports like soccer, cricket, volleyball, etc., during his free time.</p>
   </div>
 </div>
 
@@ -54,7 +55,7 @@ nav_order: 2
   <div class="col-12 col-sm-8 col-md-9">
     <h3>Robert Bofah-Buoh</h3>
     <p><em>Ph.D. Student, Nanoscience</em></p>
-    <p>Robert is a Ph.D. student in Nanoscience, co-advised by Prof. Hemali Rathnayake. He completed his B.S. in Ghana and his M.S. in China. Since Fall 2025, he has worked on the synthesis of hybrid materials in collaboration with Prof. Rathnayake’s group.</p>
+    <p>Robert Bofah-Buoh is a PhD student in Nanoscience at JSNN, co-advised by Prof. Hemali Rathnayake. He joined the program in Fall 2025. He holds a BSc in Materials Engineering from Kwame Nkrumah University of Science and Technology, Ghana, and an MSc in Environmental Engineering from Hohai University, China. His research focuses on molecular magnetic materials for potential neuromorphic-device applications. Outside of his academic work, he enjoys playing soccer.</p>
     <p><small class="text-muted">Photo forthcoming.</small></p>
   </div>
 </div>
@@ -77,7 +78,7 @@ nav_order: 2
   <div class="col-12 col-sm-8 col-md-9">
     <h3>Shravani Mangu</h3>
     <p><em>Ph.D. Student, Nanoscience</em></p>
-    <p>Shravani is a Ph.D. student in Nanoscience, co-advised by Prof. Hemali Rathnayake. She earned a B.Tech. in Chemical Engineering from NIT Warangal, India, and will join the Gamage Lab in Fall 2026.</p>
+    <p>Shravani Mangu joined JSNN in Fall 2026 as a PhD student in Nanoscience, co-advised by Prof. Hemali Rathnayake. She earned her undergrad degree in Chemical Engineering from the National Institute of Technology Warangal, India, where she worked on the synthesis of perovskite structures. Before beginning her PhD, she spent 3.5 years at Hindalco Industries, Aditya Birla Group, India, working in alumina refinery on process engineering and greenfield and brownfield projects. Her research focuses on the synthesis and characterization of metal–organic frameworks and their applications. During her free time, she enjoys doing Bharatnatyam, traveling, and reading.</p>
   </div>
 </div>
 
