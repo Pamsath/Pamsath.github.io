@@ -56,7 +56,7 @@ nav_order: 2
     <h3>Robert Bofah-Buoh</h3>
     <p><em>Ph.D. Student, Nanoscience</em></p>
     <p>Robert Bofah-Buoh is a PhD student in Nanoscience at JSNN, co-advised by Prof. Hemali Rathnayake. He joined the program in Fall 2025. He holds a BSc in Materials Engineering from Kwame Nkrumah University of Science and Technology, Ghana, and an MSc in Environmental Engineering from Hohai University, China. His research focuses on molecular magnetic materials for potential neuromorphic-device applications. Outside of his academic work, he enjoys playing soccer.</p>
-    <p><small class="text-muted">Photo forthcoming.</small></p>
+    %<p><small class="text-muted">Photo forthcoming.</small></p>
   </div>
 </div>
 
